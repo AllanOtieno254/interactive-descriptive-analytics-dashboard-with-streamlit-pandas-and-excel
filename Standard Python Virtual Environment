@@ -1,0 +1,16 @@
+# Step 1: Navigate to your project folder
+cd descriptive-analytics-dashboard
+
+# Step 2: Create a virtual environment named "env"
+python -m venv env
+
+# Step 3: Activate the virtual environment
+
+# 🪟 On Windows:
+env\Scripts\activate
+
+# 🐧 On macOS/Linux:
+source env/bin/activate
+
+# Step 4: Install the required packages
+pip install -r requirements.txt

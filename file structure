@@ -1,0 +1,18 @@
+descriptive-data-analysis-dashboard-using-streamlit-pandas-plotly-and-excel-with-side-navigation-menu/
+│
+├── 📁 assets/
+│   └── logo.png                 # Any logo or image assets (optional)
+│
+├── 📁 data/
+│   └── data.xlsx                # Dataset used for the dashboard
+│
+├── 📁 screenshots/
+│   └── dashboard_preview.png    # Screenshots of dashboard output
+│
+├── 📁 scripts/
+│   └── dashboard_app.py         # The main Streamlit dashboard code
+│
+├── 📄 README.md                 # Long descriptive README
+├── 📄 LICENSE                   # MIT License
+├── 📄 requirements.txt          # Python dependencies
+└── 📄 .gitignore                # Ignore data files or virtual env
