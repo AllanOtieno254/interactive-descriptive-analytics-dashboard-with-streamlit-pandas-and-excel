@@ -42,6 +42,21 @@ The goal of this project is to provide a **user-friendly interface** for explori
 
 ---
 
+## 🧠 Concepts Demonstrated
+Feature-based filtering
+
+Descriptive statistics (Sum, Mean, Median, Mode)
+
+Custom CSS in Streamlit
+
+Sidebar navigation using streamlit-option-menu
+
+Multi-chart layouts with responsive design
+
+Real-time progress bar animation
+
+Clean dashboard design with accessibility in mind
+
 ## 🧱 Project Structure
 
 ```plaintext
