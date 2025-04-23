@@ -1,6 +1,9 @@
 # 📊 Descriptive Data Analytics Dashboard using Streamlit, Pandas, Plotly & Excel
 
 Welcome to this powerful, interactive, and visually rich **Descriptive Analytics Dashboard** built using **Streamlit**, **Pandas**, **Plotly**, and **Excel**. This project demonstrates the capabilities of building a modern business intelligence dashboard with dynamic filters, KPIs, trend graphs, and a visually engaging interface—all from a simple Excel file.
+![homepage1](https://github.com/user-attachments/assets/ea4b8b07-af98-415c-bc7e-95ffa64b4688)
+![progress](https://github.com/user-attachments/assets/ec6e8f88-d79a-4a32-b523-90b6ad3bc741)
+![homepage2](https://github.com/user-attachments/assets/2e9b9e03-44ca-4deb-8189-5cdea8652b57)
 
 ---
 
