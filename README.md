@@ -5,6 +5,7 @@ Welcome to this powerful, interactive, and visually rich **Descriptive Analytics
 ![progress](https://github.com/user-attachments/assets/ec6e8f88-d79a-4a32-b523-90b6ad3bc741)
 ![homepage2](https://github.com/user-attachments/assets/2e9b9e03-44ca-4deb-8189-5cdea8652b57)
 
+
 ---
 
 ## 🧠 Project Objective
